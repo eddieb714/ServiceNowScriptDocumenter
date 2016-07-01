@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Finmar Task" max_length="40" name="x_21242_finmar_task" type="collection"/>
+</database>

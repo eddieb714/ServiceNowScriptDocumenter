@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Finmar Dispatch</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-29 18:36:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1bc46ef10f182200e3ff8c9ce1050ea1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finmar Dispatch</sys_name>
+        <sys_package display_value="Finmar" source="x_21242_finmar">1aa4ae3d0fd42200e3ff8c9ce1050e7b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finmar">1aa4ae3d0fd42200e3ff8c9ce1050e7b</sys_scope>
+        <sys_update_name>sys_properties_category_1bc46ef10f182200e3ff8c9ce1050ea1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-29 18:36:37</sys_updated_on>
+        <title><![CDATA[<p><b>Dispatch Properties for Finmar</b></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=1bc46ef10f182200e3ff8c9ce1050ea1"/>
+</record_update>
